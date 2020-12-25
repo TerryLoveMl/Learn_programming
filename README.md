@@ -59,4 +59,7 @@ ps：生成文件目录结构--->[tree命令](https://www.jianshu.com/p/af694e40
 	  
 * 执行，调整，执行。
 
+## 3 资源分享
 
+* [西工大布树辉](https://gitee.com/pi-lab/learn_programming)
+* [斯坦福CS 97SI](http://web.stanford.edu/class/cs97si/)
