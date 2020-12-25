@@ -49,13 +49,13 @@
 ps：生成文件目录结构--->tree命令(https://www.jianshu.com/p/af694e4059c0)
 
 * 根据自己的理解增加一些假设与结论的注释，刚开始如下，当你的理解不断的进步的时候你会减少那些碎片化的评论并且能够增加一些更加有意义或权威的注释。
-```python
+
 		1):i think this function is called after "initialize"
 
 		2):what does this equation even do
 		
 		3):pretty sure this variable loses scope after line 17   
-```
+
 	  
 * 执行，调整，执行。
 
